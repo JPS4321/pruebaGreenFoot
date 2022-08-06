@@ -14,7 +14,7 @@ public class MyCat extends Cat
     public void act(){
         eat();
         dance();
-        sleep(2);
+        sleep(2); //Durmamos un poquito
         
         shoutHooray();
         walkLeft(4);
